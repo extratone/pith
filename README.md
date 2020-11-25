@@ -12,7 +12,7 @@ notes\[Wall] Blimp's Burden.md
 
 notes\About this template.md
 
-notes\Arguments, Themes and Function of Blimp'.md
+[](notes\Arguments, Themes and Function of Blimp'.md)
 
 notes\Arguments, Themes and Function of Blimp's Bur.md
 
