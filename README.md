@@ -2,9 +2,8 @@
 
 ## 1.1. An experiment in fiction writing with Git.
 
+
 notes\.obsidian
-notes\source
-notes\source\notes.json
 notes\‘Does MapQuest still exist’ Yes, it does, and.md
 notes\‘Does MapQuest still exist’ Yes, it does.md
 notes\[Wall] Blimp's Burden.md
@@ -48,6 +47,8 @@ notes\Peter Built.md
 notes\Pith's MaqQuest Monologue [Chapter II].md
 notes\Pith's Properties [BACKGROUND].md
 notes\Rule Britannia Lyrics.md
+notes\source
+notes\source\notes.json
 notes\The Corporate B.S. Glossary Terms to In.md
 notes\The Day of Extended Abandon - December 8.md
 notes\The Day of Released Vortex - January 22n.md
@@ -63,4 +64,4 @@ notes\Theodore Pith's Good Morning America Int.md
 notes\Titles from Digital Taoism [LEGACY].md
 notes\Uncanny Valley Anna Wiener.md
 notes\Untitled.md
-notes\Verizon buys AOL for $4.4 billion in mob.md
+otes\Verizon buys AOL for $4.4 billion in mob.md
