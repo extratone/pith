@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 Evernote Export    body, td { font-family: Segoe UI; font-size: 10pt; }  Theodore Pith's Axis of Evil | The Wretched Economist
 =====================================================
 
@@ -13,7 +17,7 @@ _blimp_
 
 I was brought into Theodore Pith's life (or perhaps he was into mine, depending on where your sympathies lie,) by his 
 
-* * * 
+* * *
 
 Goals for MapQuest
 ==================
@@ -1063,7 +1067,7 @@ _blimp_
 
 "[Old Games you remember playing but can't remember the name of.](http://www.escapistmagazine.com/forums/read/9.166417-Old-Games-you-remember-playing-but-cant-remember-the-name-of?page=1)" - The Escapist Forums
 
-  
+
 **Games Barney Played Online**
 
 Runescape
@@ -2748,7 +2752,7 @@ Tie all of the above together in a 2-sentence summary:
 
 Barney Blimp is a mediocre software engineer who hides away from his grief of his mother's death in his online flight simming and sleep deprivation. Theodore Pith - his eccentric new boss with a penchant for nonsensical disruption - inadvertently forces him to acknowledge his distaste with his own lifestyle, but he must choose to befriend him 
 
-* * * 
+* * *
 
 Narcissus and the Star
 ======================
