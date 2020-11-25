@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "ce6819918c1b6d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "271fcfa891f2af95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Instructional Laconic Authority - Decemb.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f188b99616284eb2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Instructional Laconic Authority - Decemb.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2bcb60af87ae5759",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instructional Laconic Authority - Decemb.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e04502d930fab23e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df447d0dc251661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dca3015bfc0d8a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "734ca38142e914d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7df6cb814cce7f25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eb20288dc926e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "96dee1cb11c699f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84be7f44e120b8a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instructional Laconic Authority - Decemb.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3d100ed8beae0f0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Instructional Laconic Authority - Decemb.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Instructional Laconic Authority - Decemb.md",
+    "‘Does MapQuest still exist’ Yes, it does.md",
+    "Blimp's Burden Story Premise Worksheet.md",
+    "Early Online Gaming [BACKGROUND].md",
+    "Limon, Colorado [SETTING].md",
+    "‘Does MapQuest still exist’ Yes, it does, and.md",
+    "Arguments, Themes and Function of Blimp's Bur.md",
+    "Untitled.md",
+    "MapQuest gets a new look after Verizon takes .md",
+    "Welcome to Simplenote!.md"
+  ]
+}
