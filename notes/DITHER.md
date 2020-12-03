@@ -1,41 +1,77 @@
-DITHER
-Dither?
-Dither
-Dither!
-No! We cannot dither!
-Scramble! Anything to get down! ANYTHING!
-Foam off your lip righteous words they are many
-Make as much of a fuss as you can!
-that's what dad taught me
-A man is only his Fuss 
-his legend, this made
-Oh, *me!*
-Joke, *me!*
-always will be in the pissant cacophony
-Not afraid enough to succeed
-not hungry enough to ask for food in the street
-Sky streets but left to lie and reap
-my portion
-*give give give and take*
-*Der Kirschbaum sieht Kinder weg*
-monocoqung thoughts lay when ya nail its peel array
-shuffled 
-         to 
-             paste 
-& a rodent rid along
-stamped the caste too many times to
-Damn.
-Why the fuck'd you let paternal poison in?
-Damn.
-Why the FUCKve'you gantried the lot to every girl in sovereignty?
-Empty eyes, *SINK!*
-Filthying wasted compressorghouls 
-redistributed prickles
-hair & skin
-I can't swim over it anymore
-Fuck, you wear me out, you know?
-a hastened etherslip here and there
-barely recalled to witness pool again
+# DITHER
 
-Tags:
-  blimp
+`blimp`
+
+Dither?
+
+Dither
+
+Dither!
+
+No! We cannot dither!
+
+Scramble! Anything to get down! ANYTHING!
+
+Foam off your lip righteous words they are many
+
+Make as much of a fuss as you can!
+
+that's what dad taught me
+
+A man is only his Fuss 
+
+his legend, this made
+
+Oh, _me!_
+
+Joke, _me!_
+
+always will be in the pissant cacophony
+
+Not afraid enough to succeed
+
+not hungry enough to ask for food in the street
+
+Sky streets but left to lie and reap
+
+my portion
+
+_give give give and take_
+
+_Der Kirschbaum sieht Kinder weg_
+
+monocoqung thoughts lay when ya nail its peel array
+
+shuffled 
+
+         to 
+
+             paste 
+
+& a rodent rid along
+
+stamped the caste too many times to
+
+Damn.
+
+Why the fuck'd you let paternal poison in?
+
+Damn.
+
+Why the FUCKve'you gantried the lot to every girl in sovereignty?
+
+Empty eyes, _SINK!_
+
+Filthying wasted compressorghouls 
+
+redistributed prickles
+
+hair & skin
+
+I can't swim over it anymore
+
+Fuck, you wear me out, you know?
+
+a hastened etherslip here and there
+
+barely recalled to witness pool again

@@ -1,0 +1,5 @@
+# Narcissus and the Star
+
+`blimp`
+
+[4A0D4964-0D8A-469C-8E00-C92285735E68.pdf](./file/4A0D4964-0D8A-469C-8E00-C92285735E68.pdf)
